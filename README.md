@@ -1,10 +1,11 @@
 # Error Handling in JavaScript - The Complete Guide
+
 Learn how to handle synchronous and asynchronous errors in JavaScript.
 
-YouTube video: 
+YouTube video:
 Hashnode Blog Post: https://hashnode.com/edit/clqjdkqje000008jx11tpghxq
 
-![Error handling in JavaScript](https://ibb.co/PjTjw4S)
+![Error handling in JavaScript](https://i.ibb.co/4tstPMQ/error-handling-javascript.png)
 
 Synchronous Error handling code:
 
